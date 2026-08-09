@@ -2,13 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Montserrat:wght@300;400;500&display=swap');
 
 :root {
-  --teal: #073f3f;
+  --teal: #006b6b;
   --deep-teal: #052f30;
   --gold: #c9a24a;
   --gold-light: #dfc276;
   --cream: #f2e9d8;
   --muted: #b9c9c3;
-}
 }
 
 * {
@@ -22,7 +21,7 @@ html {
 }
 
 body {
-  background: --teal: #006b6b;
+  background: #006b6b;
 }
 
 
