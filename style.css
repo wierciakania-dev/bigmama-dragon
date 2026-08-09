@@ -22,7 +22,7 @@ html {
 }
 
 body {
-  background: var(--teal);
+  background: --teal: #006b6b;
 }
 
 
