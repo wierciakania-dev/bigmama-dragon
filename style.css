@@ -21,7 +21,7 @@ html {
 }
 
 body {
-  background: #006b6b;
+  background: var(--teal);
 }
 
 
